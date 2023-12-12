@@ -1,5 +1,2 @@
-# scaffold-vite-vue-tailwind
+# akiho.dev--vue-transition
 
-```
-npx degit akifo/scaffold-vite-vue-tailwind .
-```
